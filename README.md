@@ -3,7 +3,7 @@
 
 
 A Minecraft Plugin that displays world day, with PlaceholderAPI support.
-<br>
+<br><br>
 ![DayCounterDescription](https://github.com/4rft5/DayCounter/assets/74219775/1a06f1bf-7ce8-48e8-8567-e3664b3de5d3)
 
   It runs on 1.20.4, it probably runs on other versions, but they haven't been tested.
@@ -59,3 +59,5 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
   If you need support, the best way to contact me is via my website: <a href="https://4rft5.com/contact">4rft5.com/contact</a>
 
   <a href="put spigot link here">Spigot Page</a>
+  
+![button](https://github.com/4rft5/DayCounter/assets/74219775/53d9ad1c-c30d-4c78-a054-9ee9b088a5cf)
