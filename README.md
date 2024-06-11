@@ -56,7 +56,7 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
 <br><br>
   ![DayCounterSupport](https://github.com/4rft5/DayCounter/assets/74219775/93456587-da49-4403-91ab-4abbbfa5150d)
 
-  If you need support, the best way to contact me is by opening a issue on this repo.
+  If you need support, the best way to contact me is by opening an issue on this repo.
 
   <a href="https://www.spigotmc.org/resources/daycounter.117256/">Spigot Page</a>
   
