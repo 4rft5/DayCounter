@@ -1,9 +1,9 @@
 # DayCounter
 ![DayCounterIcon](https://github.com/4rft5/DayCounter/assets/74219775/30fbc84f-2b42-48a8-b239-61b045e6dfad)
 
-<br>
-A Minecraft Plugin that displays world day, with PlaceholderAPI support.
 
+A Minecraft Plugin that displays world day, with PlaceholderAPI support.
+<br>
 ![DayCounterDescription](https://github.com/4rft5/DayCounter/assets/74219775/1a06f1bf-7ce8-48e8-8567-e3664b3de5d3)
 
   It runs on 1.20.4, it probably runs on other versions, but they haven't been tested.
@@ -36,6 +36,11 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
   ### PlaceholderAPI
 
   The day count itself is stored in %daycounter_counter%, which can be used anywhere any other PlaceholderAPI placeholders can be used.
+
+  Example use of the placeholder:
+
+  ![DayCounterPlaceholderAPIExample](https://github.com/4rft5/DayCounter/assets/74219775/fb6ead2b-0e56-4ab4-9b9f-7858a68b0e73)
+
  <br>
 
   ### Config
@@ -45,6 +50,7 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
   The default message is 'The world is currently on day %day%.'
 
   Example config text seen in chat:
+
   ![DayCounterConfigDefault](https://github.com/4rft5/DayCounter/assets/74219775/b65c974e-b823-4caf-b7c4-881e139e5728)
 
 <br><br>
