@@ -18,9 +18,9 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
 
   | Command | Description |
   | --- | --- |
-  | /daycount | prints what the current day is in game. |
-  | /daycount reload | reloads the plugin and config file |
-  | /daycount help | lists the previous two commands |
+  | /daycount | Prints what the current day is in game. |
+  | /daycount reload | Reloads the plugin and config file |
+  | /daycount help | Lists the previous two commands |
 
   <br><br>
   
@@ -58,6 +58,6 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
 
   If you need support, the best way to contact me is via my website: <a href="https://4rft5.com/contact">4rft5.com/contact</a>
 
-  <a href="put spigot link here">Spigot Page</a>
+  <a href="https://www.spigotmc.org/resources/daycounter.117256/">Spigot Page</a>
   
 ![button](https://github.com/4rft5/DayCounter/assets/74219775/53d9ad1c-c30d-4c78-a054-9ee9b088a5cf)
