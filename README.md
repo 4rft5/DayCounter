@@ -1,9 +1,11 @@
 # DayCounter
-![DayCounterIcon](https://github.com/4rft5/DayCounter/assets/74219775/1c50283b-b915-4c1c-a320-d14068e8a787)
+![DayCounterIcon](https://github.com/4rft5/DayCounter/assets/74219775/30fbc84f-2b42-48a8-b239-61b045e6dfad)
+
 <br>
 A Minecraft Plugin that displays world day, with PlaceholderAPI support.
 
 ![DayCounterDescription](https://github.com/4rft5/DayCounter/assets/74219775/1a06f1bf-7ce8-48e8-8567-e3664b3de5d3)
+
   It runs on 1.20.4, it probably runs on other versions, but they haven't been tested.
 
   This plugin is designed to help replace the F3 daycounter, which seems to have been removed in 1.20.2.
@@ -13,6 +15,7 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
 <br><br>
 
 ![DayCounterCommands](https://github.com/4rft5/DayCounter/assets/74219775/b5105943-15c3-4b54-96fb-d54318f98658)
+
   | Command | Description |
   | --- | --- |
   | /daycount | prints what the current day is in game. |
