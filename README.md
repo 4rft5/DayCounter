@@ -6,7 +6,7 @@ A Minecraft Plugin that displays world day, with PlaceholderAPI support.
 <br><br>
 ![DayCounterDescription](https://github.com/4rft5/DayCounter/assets/74219775/1a06f1bf-7ce8-48e8-8567-e3664b3de5d3)
 
-  It runs on 1.20.4-1.21.4, it probably runs on other versions, but they haven't been tested.
+  It runs on 1.20.4-1.21.8, it probably runs on other versions, but they haven't been tested.
 
   This plugin is designed to help replace the F3 daycounter, which seems to have been removed in 1.20.2.
 
