@@ -1,0 +1,18 @@
+name: DayCounter
+version: 1.0
+api-version: 1.20
+main: DayCounter
+softdepend: [PlaceholderAPI]
+description: Shows the current day in the world.
+author: 4rft5
+commands:
+  daycount:
+    description: Shows the current day count in the world.
+    usage: /<command> [reload|help]
+    permissions:
+      daycounter.reload:
+        description: Allows reloading the plugin configuration.
+        default: op
+      daycounter.use:
+        description: Allows using the DayCounter commands.
+        default: true

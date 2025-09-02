@@ -1,0 +1,2 @@
+# Default configuration file for DayCounter plugin, supports color codes.
+daycount-message: '&7The world is currently on day &8%day%&7.'
